@@ -410,19 +410,13 @@ CREATE TABLE orders (
 - [SQLAlchemy Documentation](https://docs.sqlalchemy.org/)
 - [wrk Load Testing Tool](https://github.com/wg/wrk)
 - [Python cProfile](https://docs.python.org/3/library/profile.html)
-- [SENG 468 Course Materials](https://brightspace.uvic.ca/)
+- [SENG 468 Course Materials](https://bright.uvic.ca/d2l/home/467415)
 
-## Support
-
-For assignment questions:
-- Office hours: Tuesday/Thursday 2:00-4:00 PM
-- Discussion forum on Brightspace
-- Email: instructor@uvic.ca
 
 ## License
 
-This code is provided for educational purposes only as part of SENG 468.
+This code is provided for educational purposes only as part of SENG 468 and is made with the help of AI!
 
 ---
 
-**Good luck! Remember: Profile, don't guess!**
+**Good luck!**
